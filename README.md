@@ -1,7 +1,7 @@
 # gitflow
 Little repository to test some git workflows.
 
-## feature-1
+## feature
 
 ### title 1
 ### title 2
